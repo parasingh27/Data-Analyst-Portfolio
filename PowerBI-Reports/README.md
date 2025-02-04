@@ -1,16 +1,49 @@
-# Adventure-Work-Report
-Adventure Works Power BI project! This project was completed as part of the Maven Analytics Power BI course, where participants were tasked with creating insightful visualizations and analyses using the Adventure Works dataset.
+# Power BI Reports
 
-The dashboard aims to showcase key insights and trends within the Adventure Works business operations, including sales performance, product analysis, customer, and more.
+This folder contains standalone **Power BI reports** that I created to visualize and analyze data. Each report demonstrates my ability to transform raw data into actionable insights using interactive dashboards.
 
-Key Features of the Visualization:
-- KPI's 
-- Sales Performance
-- Sales Target
-- Product Analysis
-- Customer Analysis
-- Orders by Country
+## Projects
+1. **Adventure Work**:
+   - **Description**: This Power BI project is designed to provide a comprehensive overview of Adventure Works' business operations, focusing on sales performance, product analysis,   customer insights, and geographic distribution.
+   - **Target Audience**: The dashboard is tailored for business analysts, sales managers, and executives to monitor key metrics, identify trends, and make data-driven decisions. 
+   - **Tools**: Power BI
+   - **Folder**: `Adventure-Work-Report/`
 
-The Adventure Works dataset provided by Maven Analytics serves as the primary data source for this project
+2. **Cafe-Reward-Report**
+   - **Description**: This Power BI project offers a detailed analysis of a café’s performance, communication channels, and customer engagement strategies from 2013 to 2018.
+   - **Target Audience**: The dashboard is designed for café owners, managers, and marketing teams to monitor key metrics, evaluate the effectiveness of campaigns, and understand customer behavior.
+   - **Tools**: Power BI
+   - **Folder**: `Cafe-Rewards-Report/`
+
+3. **Massachusetts-General-Hospital-Report**
+   - **Description**: This Power BI project is designed to provide comprehensive insights into healthcare operations, financial performance, and patient demographics.
+   - **Target Audience**: The dashboard is tailored for healthcare administrators, financial analysts, and decision-makers to monitor key metrics, identify trends, and optimize operational efficiency.
+   - **Tools**: Power BI
+   - **Folder**: `Massachusetts-General-Hospital-Report/`
+
+4. **Maven-Market-Report**
+   - **Description**: This Power BI project leverages the Maven Market dataset to create a comprehensive and interactive dashboard focused on analyzing sales data, market trends, and business performance.
+   - **Target Audience**: The dashboard is designed to provide actionable insights for business leaders, sales managers, and analysts to optimize strategies, improve customer satisfaction, and drive growth.
+   - **Tools**: Power BI
+   - **Folder**: `Maven-Market-Report/`
+
+5. **UK-Railway-Report**
+   - **Description**: This Power BI project  focuses on analyzing and visualizing key aspects of the UK's railway system. The dashboard provides insights into ticket pricing, passenger trends, station popularity, and sales performance
+   - **Target Audience**: The dashboard is designed for stakeholders to make data-driven decisions to improve operational efficiency and customer satisfaction.
+   - **Tools**: Power BI
+   - **Folder**: `UK-Railway-Report/`
+
+
+## How to Use This Folder
+- Each project folder contains:
+  - A `README.md` with detailed project information.
+  - Power BI files (`.pbix`) and dashboard screenshots (`PDF`).
+- Datasets are included in the `Data` Folder.
+
+## Skills Demonstrated
+- **Power BI**: Data visualization, dashboard design, and storytelling.
+- **Data Analysis**: Identifying trends, patterns, and actionable insights.
+- **Business Intelligence**: Translating data into business recommendations.
+
 
 
