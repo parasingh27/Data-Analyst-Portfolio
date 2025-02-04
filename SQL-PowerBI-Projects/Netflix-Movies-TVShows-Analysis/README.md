@@ -1,4 +1,4 @@
-# Netflix Content Analysis and Visualization - Power BI Project
+# Netflix Content Analysis and Visualization
 
 This project analyzes **Netflix's movie and TV show catalog** to uncover trends in content production, release patterns, and viewer preferences. The goal is to provide actionable insights for content strategy, audience targeting, and operational efficiency. The analysis leverages **Power BI** for visualization and **SQL/Python** for data cleaning and transformation.
 
