@@ -34,3 +34,10 @@ This Power BI project leverages the Maven Market dataset to create a comprehensi
 - **Data-Driven Decision Making**: Use insights to optimize **pricing, marketing, and inventory strategies** for maximum profitability.
 - **Interactive Visualizations**: Explore data through interactive **charts, graphs, and maps** to uncover hidden insights and opportunities.
 - **Improved Efficiency**: Streamline reporting processes and reduce manual effort by automating data aggregation and visualization.
+
+---
+
+## Technologies Used
+- **Power BI**: For data visualization and dashboard creation.
+- **DAX (Data Analysis Expressions)**: For creating calculated columns and measures.
+- **Power Query**: For data transformation and cleaning.
