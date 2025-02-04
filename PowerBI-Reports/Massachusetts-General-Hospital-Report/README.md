@@ -1,6 +1,6 @@
 # Massachusetts General Hospital Report
 
-This Power BI project is designed to provide comprehensive insights into **healthcare operations**, **financial performance**, and **patient demographics**. The dashboard is tailored for healthcare administrators, financial analysts, and decision-makers to monitor key metrics, identify trends, and optimize operational efficiency.
+This Power BI project was developed as part of the **Maven Analytics Challenge** and is designed to provide comprehensive insights into **healthcare operations**, **financial performance**, and **patient demographics**. The dashboard is tailored for healthcare administrators, financial analysts, and decision-makers to monitor key metrics, identify trends, and optimize operational efficiency.
 
 ---
 
