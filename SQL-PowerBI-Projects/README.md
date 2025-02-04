@@ -7,43 +7,43 @@ This folder contains projects where I used **SQL** for data analysis and **Power
    - **Description**:
    - **Target Audience**:
    - **Tools**: Microsoft SQL and Power BI
-   - **Folder**: `Covid-19-Analysis`
+   - **Folder**: `Covid-19-Analysis/`
   
 2. **E-Commerce Website Performance ETL and Analysis**
    - **Description**:
    - **Target Audience**:
    - **Tools**: Python (Pandas), MySQL and Power BI
-   - **Folder**: `E-Commerce-Website-Performance-ETL-and-Analysis`
+   - **Folder**: `E-Commerce-Website-Performance-ETL-and-Analysis/`
     
 3. **Nashville Housing Analysis**
    - **Description**:
    - **Target Audience**:
    - **Tools**: Microsoft SQL and Power BI
-   - **Folder**: `Nashville-Housing-Analysis`
+   - **Folder**: `Nashville-Housing-Analysis/`
   
 4. **Netflix Movies TVShows Analysis**
    - **Description**:
    - **Target Audience**:
    - **Tools**: Microsoft SQL and Power BI
-   - **Folder**: `Netflix-Movies-TVShows-Analysis`
+   - **Folder**: `Netflix-Movies-TVShows-Analysis/`
      
 5. **Olist Ecommerce Sales Analysis**
    - **Description**:
    - **Target Audience**:
    - **Tools**: Microsoft SQL and Power BI
-   - **Folder**: `Olist-Ecommerce-Sales-Analysis`
+   - **Folder**: `Olist-Ecommerce-Sales-Analysis/`
      
 6. **Pizza Store Sales Analysis**
    - **Description**:
    - **Target Audience**:
    - **Tools**: Microsoft SQL and Power BI
-   - **Folder**: `Pizza-Store-Sales-Analysis`
+   - **Folder**: `Pizza-Store-Sales-Analysis/`
 
 7. **Video Games Sales Analysis**
    - **Description**:
    - **Target Audience**:
    - **Tools**: Microsoft SQL and Power BI
-   - **Folder**: `Video-Games-Sales-Analysis`
+   - **Folder**: `Video-Games-Sales-Analysis/`
 
 
 ## How to Use This Folder
