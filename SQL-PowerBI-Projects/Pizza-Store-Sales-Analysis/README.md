@@ -1,10 +1,10 @@
-# 🍕 Pizza Store Sales Analysis and Visualization  
+# Pizza Store Sales Analysis and Visualization  
 
 This project analyzes **sales data from a pizza store** to uncover key insights into revenue, customer preferences, and sales trends. The goal is to provide **data-driven insights** that help understand ordering patterns, best-selling pizzas, and overall business performance. The analysis leverages **SQL for data extraction and transformation** and **Power BI for interactive visualizations**.  
 
 ---
 
-## 📊 Key Features of the Analysis and Visualization  
+## Key Features of the Analysis and Visualization  
 
 ### **Key Performance Indicators (KPIs)**  
 - **Total Revenue**: Overall earnings from pizza sales.  
