@@ -11,7 +11,7 @@ Welcome to my Data Analyst portfolio! This repository contains a collection of p
    - Folder: `PowerBI-Reports/`
 
 ## How to Use This Repository
-- Each category folder contains project folder that contains a `README.md` with detailed instructions on how to run the project.
+- Each category folder contains project-specific folders, each with a README.md providing detailed instructions on how to run the project.
 - Datasets are included in this repository. You can find them within each project's directory.
 
 ## Contact
