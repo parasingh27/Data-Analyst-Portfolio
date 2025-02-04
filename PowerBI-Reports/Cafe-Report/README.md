@@ -1,4 +1,4 @@
-# Cafe-Rewards-Report
+# Cafe Rewards Report
 
 This Project is submission for Maven Challenge https://app.mavenanalytics.io/
 
