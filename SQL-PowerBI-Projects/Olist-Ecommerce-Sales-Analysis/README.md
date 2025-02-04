@@ -65,4 +65,4 @@ The project is organized into three main components:
 
 ---
 
-**Happy Analyzing!** 🚀📊  
+**Happy Shopping!** 🚀📊  
