@@ -1,10 +1,46 @@
-# Housing-Report
-Nashivlle Housing Report (2013-2019) in SQL - PowerBi
+# Nashville Housing Report (2013-2019)
 
-This project presents an analysis of housing data from Nashville, focusing on various aspects such as property details, sale dates, owner addresses, and more. The analysis aims to provide insights into the Nashville housing market through SQL queries and DAX applied to a dataset containing relevant information.
+This project presents an analysis of housing data from **Nashville**, focusing on various aspects such as property details, sale dates, owner addresses, and more. The analysis aims to provide insights into the Nashville housing market through **SQL queries** and **DAX (Data Analysis Expressions)** applied to a dataset containing relevant information. The final visualizations are presented in a **Power BI dashboard**, offering a comprehensive view of the housing market trends and patterns.
 
-I would like to acknowledge and express my gratitude to Alex The Analyist for their invaluable guidance and instruction in SQL.
-The SQL code in this project is based on the concepts and techniques taught in his video.
-Their expertise and clear explanations greatly contributed to my understanding and proficiency in SQL.
+---
 
-It's important to note that the Power BI portion of this project was solely developed by me, building upon the SQL foundation provided by the instructor.
+## Key Features
+
+### **Data Analysis Using SQL**
+- **Data Cleaning**: Standardized date formats, populated missing property addresses, and removed duplicates.
+- **Data Transformation**: Split owner addresses into individual columns (address, city, state) for better analysis.
+- **Key Insights**:
+  - Analyzed property sales trends over time (2013-2019).
+  - Identified the most expensive and affordable neighborhoods.
+  - Explored correlations between property size, location, and sale prices.
+
+### **Power BI Dashboard**
+- **Interactive Visualizations**:
+  - Trends in property sales over the years.
+  - Distribution of property prices across neighborhoods.
+  - Average sale prices by property type and size.
+- **Key Metrics**:
+  - Total properties sold.
+  - Average sale price.
+  - Highest and lowest sale prices.
+
+---
+
+## Tools and Technologies
+
+- **SQL**: For data cleaning, transformation, and analysis.
+- **Power BI**: For data visualization and dashboard creation.
+- **DAX (Data Analysis Expressions)**: For creating calculated columns and measures.
+
+---
+
+## Benefits of the Project
+
+1. **Comprehensive Housing Market Insights**: Understand trends, patterns, and key drivers of the Nashville housing market.
+2. **Data-Driven Decision Making**: Empower real estate professionals, investors, and policymakers with actionable insights.
+3. **Interactive Visualizations**: Explore data through interactive charts, graphs, and maps for deeper analysis.
+4. **Scalable Solution**: The methodology can be applied to other cities or regions for similar analyses.
+
+---
+
+**Happy Analyzing!** 🚀
