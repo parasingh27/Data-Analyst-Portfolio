@@ -1,4 +1,4 @@
-# E-Commerce-Website-Performance
+# E-Commerce Website Performance
  
 # Project Overview
 This project focuses on analyzing an e-commerce dataset containing 2.3+ million rows to uncover insights into customer behavior, product performance, traffic sources, and seasonal trends. The project involves:
@@ -9,6 +9,7 @@ This project focuses on analyzing an e-commerce dataset containing 2.3+ million 
 
 * Power BI Dashboard: Creating an interactive dashboard to visualize key metrics and trends.
 ___
+
 Tools and Technologies Used
 Programming Languages: Python, SQL
 
@@ -19,7 +20,9 @@ Programming Languages: Python, SQL
 * Visualization: Power BI
 
 * Data Sources: JSON and CSV files
+* 
 ___
+
 Project Structure
 The project is organized into three main components:
 
