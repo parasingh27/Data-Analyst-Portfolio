@@ -25,7 +25,7 @@ This project analyzes **video game sales data** from Kaggle to uncover key trend
 
 ---
 
-## Tools and Technologies  
+## 🛠 Tools and Technologies  
 - **Power BI**: For interactive dashboards and visualizations.  
 - **SQL**: For data extraction, transformation, and analysis.
 - **DAX (Data Analysis Expressions)**: For creating calculated columns and measures.
