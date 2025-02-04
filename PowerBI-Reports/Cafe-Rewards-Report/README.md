@@ -1,6 +1,6 @@
 # Café Performance and Customer Insights Dashboard
 
-This Power BI project provides a comprehensive overview of **café performance**, focusing on **sales performance**, **customer engagement**, **marketing channels**, and **event analysis**. The dashboard is designed for café owners, managers, and marketing teams to track key metrics, evaluate campaign effectiveness, and optimize customer interactions.
+This Power BI project was developed as part of the **Maven Analytics Challenge** and provides a comprehensive overview of **café performance**, focusing on **sales performance**, **customer engagement**, **marketing channels**, and **event analysis**. The dashboard is designed for café owners, managers, and marketing teams to track key metrics, evaluate campaign effectiveness, and optimize customer interactions.
 
 ---
 
@@ -49,7 +49,3 @@ This Power BI project provides a comprehensive overview of **café performance**
 - **Power BI**: For data visualization and dashboard creation.
 - **DAX (Data Analysis Expressions)**: For creating calculated columns and measures.
 - **Power Query**: For data transformation and cleaning.
-
----
-
-This Project is submission for Maven Challenge https://app.mavenanalytics.io/
