@@ -1,6 +1,6 @@
 # Adventure Work Report
 
-This Power BI project provides a comprehensive overview of **Adventure Works'** business operations, focusing on **sales performance**, **product analysis**, **customer insights**, and **geographic distribution**. The dashboard is tailored for business analysts, sales managers, and executives to monitor key metrics, identify trends, and make data-driven decisions.
+This Power BI project was completed as part of the Maven Analytics Power BI course that provides a comprehensive overview of **Adventure Works'** business operations, focusing on **sales performance**, **product analysis**, **customer insights**, and **geographic distribution**. The dashboard is tailored for business analysts, sales managers, and executives to monitor key metrics, identify trends, and make data-driven decisions.
 
 ---
 
@@ -45,7 +45,3 @@ This Power BI project provides a comprehensive overview of **Adventure Works'** 
 - **Power BI**: For data visualization and dashboard creation.
 - **DAX (Data Analysis Expressions)**: For creating calculated columns and measures.
 - **Power Query**: For data transformation and cleaning.
-
----
-
-Adventure Works Power BI project! This project was completed as part of the Maven Analytics Power BI course, where participants were tasked with creating insightful visualizations and analyses using the Adventure Works dataset.
