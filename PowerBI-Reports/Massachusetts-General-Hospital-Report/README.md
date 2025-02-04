@@ -63,7 +63,3 @@ By leveraging data-driven insights, healthcare organizations can make informed d
 - **Power BI**: For data visualization and dashboard creation.
 - **DAX (Data Analysis Expressions)**: For creating calculated columns and measures.
 - **Power Query**: For data transformation and cleaning.
-
----
-
-This project was part of Maven Analytics Challenge: https://mavenanalytics.io/
