@@ -21,7 +21,7 @@ This folder contains projects where I used **SQL** for data analysis and **Power
    - **Tools**: Microsoft SQL and Power BI
    - **Folder**: `Nashville-Housing-Analysis/`
   
-4. **Netflix Movies TVShows Analysis**
+4. **Netflix Movies and TV-Shows Analysis**
    - **Description**:
    - **Target Audience**:
    - **Tools**: Microsoft SQL and Power BI
