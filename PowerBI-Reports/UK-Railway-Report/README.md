@@ -49,5 +49,3 @@ This Power BI project was developed as part of the **Maven Analytics Challenge**
 - **Power BI**: For data visualization and dashboard creation.
 - **DAX (Data Analysis Expressions)**: For creating calculated columns and measures.
 - **Power Query**: For data transformation and cleaning.
-
----
