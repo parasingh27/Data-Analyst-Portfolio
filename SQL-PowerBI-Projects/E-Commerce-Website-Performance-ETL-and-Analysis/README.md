@@ -79,4 +79,9 @@ Key Visualizations:
 
 Files:
 
-* ecommerce_dashboard.pbix: Power BI file containing the interactive dashboard.
+* ecommerce_report.pbix: Power BI file containing the interactive dashboard.
+* ecommerce_report.pdf: PDF file containing the dashboard.
+
+___
+
+Happy Analyzing! 🚀
