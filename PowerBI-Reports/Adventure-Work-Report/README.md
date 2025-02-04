@@ -45,3 +45,7 @@ This Power BI project was completed as part of the Maven Analytics Power BI cour
 - **Power BI**: For data visualization and dashboard creation.
 - **DAX (Data Analysis Expressions)**: For creating calculated columns and measures.
 - **Power Query**: For data transformation and cleaning.
+
+---
+
+**Happy Analyzing!** 🚀
