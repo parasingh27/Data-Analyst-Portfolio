@@ -26,7 +26,7 @@ This project presents an analysis of housing data from **Nashville**, focusing o
 
 ---
 
-## Tools and Technologies
+## 🛠 Tools and Technologies
 
 - **SQL**: For data cleaning, transformation, and analysis.
 - **Power BI**: For data visualization and dashboard creation.
