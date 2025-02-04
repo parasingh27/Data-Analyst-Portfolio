@@ -30,7 +30,8 @@ This project analyzes **COVID-19 global data** to uncover key trends in case num
 
 ## Tools and Technologies  
 - **Power BI**: For dynamic dashboards and trend visualization.  
-- **SQL**: For efficient data extraction and transformation.  
+- **SQL**: For efficient data extraction and transformation.
+- **DAX (Data Analysis Expressions)**: For creating calculated columns and measures
 
 ---
 
