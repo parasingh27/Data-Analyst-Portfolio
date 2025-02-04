@@ -46,4 +46,4 @@ This project delivers a **comprehensive analysis of COVID-19 data**, offering in
 
 ---
 
-**Happy Analyzing** 🚀
+**Stay Safe** 🚀
