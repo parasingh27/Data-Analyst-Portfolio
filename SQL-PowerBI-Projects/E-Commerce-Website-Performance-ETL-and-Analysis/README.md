@@ -20,7 +20,7 @@ Programming Languages: Python, SQL
 * Visualization: Power BI
 
 * Data Sources: JSON and CSV files
-* 
+
 ___
 
 Project Structure
