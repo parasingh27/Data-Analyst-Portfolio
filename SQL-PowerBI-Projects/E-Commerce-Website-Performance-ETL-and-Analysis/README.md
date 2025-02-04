@@ -10,7 +10,7 @@ This project focuses on analyzing an e-commerce dataset containing 2.3+ million 
 * Power BI Dashboard: Creating an interactive dashboard to visualize key metrics and trends.
 ___
 
-Tools and Technologies Used
+🛠 Tools and Technologies Used
 Programming Languages: Python, SQL
 
 * Libraries: Pandas (for ETL), SQLalchemy (for DB connection)
