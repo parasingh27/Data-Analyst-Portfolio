@@ -3,8 +3,8 @@
 Welcome to my Data Analyst portfolio! This repository contains a collection of projects showcasing my skills in **Data Analysis** using **SQL**, **Python**, **ETL**, **Power BI**, and **Machine Learning**.
 
 ## Project Categories
-1. **Machine Learning Projects**: Predictive modeling and data analysis using Python.
-   - Folder: `Machine-Learning-Projects/`
+1. **Pandas Projects**: Data cleaning and aggregation using Pandas and Matplotlib.
+   - Folder: `Pandas-Projects/`
 2. **SQL + Power BI Projects**: Data analysis and visualization using SQL and Power BI.
    - Folder: `SQL-PowerBI-Projects/`
 3. **Power BI Reports**: Standalone Power BI dashboards and reports.
