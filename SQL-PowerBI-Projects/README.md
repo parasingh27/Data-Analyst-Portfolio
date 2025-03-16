@@ -16,11 +16,11 @@ This folder contains projects where I used **SQL** for data analysis and **Power
    - **Folder**: `E-Commerce-Website-Performance-ETL-and-Analysis/`
     
   
-3. **Netflix Movies and TV-Shows Analysis**
-   - **Description**: Explores Netflix’s content library to uncover trends in genres, release patterns, and viewer preferences across regions.
-   - **Target Audience**: Content creators, marketing teams, and data analysts.
-   - **Tools**: Microsoft SQL and Power BI.
-   - **Folder**: `Netflix-Movies-TVShows-Analysis/`
+3. **Nashville Housing Analysis**
+    - **Description**: Examines property sales data to identify trends in pricing, location preferences, and market dynamics in Nashville’s real estate sector
+    - **Target Audience**: Real estate agents, investors, and homebuyers.
+    - **Tools**: Microsoft SQL and Power BI.
+    - **Folder**: `Nashville-Housing-Analysis/`
      
 4. **Olist Ecommerce Sales Analysis**
    - **Description**: Analyzes Brazilian e-commerce data to uncover sales trends, customer behavior, and seller performance for strategic decision-making.
