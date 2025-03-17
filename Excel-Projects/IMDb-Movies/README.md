@@ -4,7 +4,7 @@ This project provides an in-depth analysis of movie industry data, focusing on *
 
 ---
 
-## 📊 Key Insights  
+## Key Insights  
 
 ### **1️⃣ Top 10 Countries by Profit**  
 - Identified the **most profitable countries** in the film industry.  
@@ -28,7 +28,7 @@ This project provides an in-depth analysis of movie industry data, focusing on *
 
 ---
 
-## 🎯 Benefits of the Dashboard  
+## Benefits of the Dashboard  
 
 ✅ **Market Insights**: Understand which countries, languages, and genres maximize profitability.  
 ✅ **Data-Driven Decision Making**: Optimize **budget allocation, marketing strategies, and content selection**.  
@@ -37,7 +37,7 @@ This project provides an in-depth analysis of movie industry data, focusing on *
 
 ---
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 
 - **Microsoft Excel**: For data analysis, visualization, and reporting.   
 - **Pivot Tables & Charts**: To summarize key insights.  
