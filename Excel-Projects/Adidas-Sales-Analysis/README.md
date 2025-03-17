@@ -18,7 +18,7 @@ This Excel-based dashboard provides an in-depth analysis of Adidas shoes sales d
 - Examine purchasing trends based on **gender, shoe size, and color preferences**.  
 - Segment customers by **purchase frequency and order volume** to identify high-value buyers.  
 
-### **🔥 Product Performance**  
+### **Product Performance**  
 - Rank **top-selling shoe models** based on revenue and order count.  
 - Analyze **underperforming products** to optimize pricing, discounts, or promotions.  
 
