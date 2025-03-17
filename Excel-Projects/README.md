@@ -2,6 +2,15 @@
 
 This folder contains standalone **Power BI reports** that I created to visualize and analyze data. Each report demonstrates my ability to transform raw data into actionable insights using interactive dashboards.
 
+# Excel Projects
+This folder contains standalone **Excel Projects** that I created to analyze and visualize data. Each report showcases my ability to leverage Pivot Tables, Charts, and Data Analysis techniques to transform raw data into meaningful insights.
+
+These reports demonstrate skills in:
+- Data Cleaning & Transformation using Power Query.
+- Pivot Tables & Charts for summarizing and visualizing trends.
+- Custom Calculations using formulas and calculated fields.
+- Interactive Dashboards for exploring key business metrics.
+
 ## Projects
 1. **Adventure Work**:
    - **Description**: This Power BI project is designed to provide a comprehensive overview of Adventure Works' business operations, focusing on sales performance, product analysis,   customer insights, and geographic distribution.
