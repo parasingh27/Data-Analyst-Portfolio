@@ -1,36 +1,78 @@
-# Excel Projects
-This folder contains standalone **Excel Projects** that I created to analyze and visualize data. Each report showcases my ability to leverage Pivot Tables, Charts, and Data Analysis techniques to transform raw data into meaningful insights.
+# Airbnb Data Analysis and Automation - Python Project
 
-These reports demonstrate skills in:
-- Data Cleaning & Transformation using Power Query.
-- Pivot Tables & Charts for summarizing and visualizing trends.
-- Custom Calculations using formulas and calculated fields.
-- Interactive Dashboards for exploring key business metrics.
+This project analyzes **Airbnb listings data** to uncover insights into pricing trends, neighborhood popularity, and property characteristics. Additionally, it automates the analysis process to handle multiple cities efficiently. The project involves:
 
-## Projects
-1. **Adidas Sales Analysis**:
-   - **Description**: This Excel project provides an in-depth analysis of Adidas' sales performance, focusing on revenue trends, product popularity, customer preferences, and category-wise sales distribution. Using Pivot Tables, Charts, and Data Analysis techniques
-   - **Target Audience**: Designed for business analysts, sales managers, and executives to track sales performance, identify best-selling products, and optimize marketing. 
-   - **Tools**: Excel (Power Query - Power Pivot)
-   - **Folder**: `Adidas-Sales-Analysis/`
+- **Data Exploration**: Performing exploratory data analysis (EDA) on Airbnb listings.
+- **Data Cleaning**: Handling missing values, transforming data, and standardizing formats.
+- **Automation**: Creating reusable functions to apply the analysis to different cities.
 
-2. **IMDb Movies Analysis**:
-   - **Description**: This project provides a comprehensive analysis of the movie industry, focusing on **profitability, ROI, audience engagement, and rating trends**. The analysis uncovers insights into the **top 10 most profitable countries, the best-performing genres by ROI, and the financial impact of different movie languages**. Additionally, it explores whether **Facebook likes and IMDb ratings influence profitability** and conducts an in-depth **ratings analysis**.  
-   - **Target Audience**: Designed for **movie producers, investors, analysts, and marketers** looking to understand key factors affecting movie profitability and audience reception.  
-   - **Tools**: Excel (Pivot Tables - Data Visualization) 
-   - **Folder**: `IMDb-Movies-Analysis/`
+---
 
+## 🛠 Tools and Technologies Used
 
-## How to Use This Folder
-- Each project folder contains:
-  - A `README.md` with detailed project information.
-  - Excel Files (`.xlsx`).
-  - Datasets are included in the Excel File.
+- **Programming Language**: Python
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+- **Data Sources**: Airbnb datasets for different cities
 
-## Skills Demonstrated
-- **Excel**: Pivot Tables, Charts, and Data Analysis for business reporting.
-- **Data Analysis**: Identifying trends, patterns, and actionable insights.
-- **Business Intelligence**: Translating data into business recommendations.
+---
+
+## Project Structure
+
+The project is divided into two main components:
+
+### **1. Data Exploration (Paris Airbnb Listings)**
+
+**Objective**: Analyze Paris Airbnb data to extract key insights.\
+**Key Analyses**:
+
+- **Price Distribution**: Understanding pricing patterns and outliers.
+- **Neighborhood Popularity**: Identifying high-demand areas.
+- **Property Characteristics**: Examining room types, availability, and host activity.
+
+**Files**:
+
+- `Airbnb (Paris).ipynb`
+
+### **2. Automation for Multiple Cities**
+
+**Objective**: Create a reusable function to analyze Airbnb data from different cities.\
+**Key Features**:
+
+- **Dynamic Data Loading**: Reads datasets based on user input.
+- **Automated Data Cleaning**: Standardizes missing values, formats, and column structures.
+- **Consistent EDA**: Generates key insights and visualizations for any city dataset.
+
+**Files**:
+
+- `AirBnB.ipynb`
+
+---
+
+## Key Features of the Analysis
+
+### **Exploratory Data Analysis (EDA)**
+
+- Identified **pricing trends** across different neighborhoods.
+- Analyzed **seasonal availability** and host activity.
+- Visualized **listing distribution** and property types.
+
+### **Automated Analysis**
+
+- Functions that allow **scaling the analysis** to multiple Airbnb datasets.
+- Streamlined **data cleaning and visualization** across different cities.
+
+---
+
+## Benefits of the Project
+
+1. **Scalability**: Apply the analysis to various cities with minimal adjustments.
+2. **Efficiency**: Reduce manual effort in data preprocessing and visualization.
+3. **Actionable Insights**: Understand Airbnb market trends to optimize pricing strategies.
+
+---
+
+**Happy Trevelling!** 🌍📊
+
 
 
 
