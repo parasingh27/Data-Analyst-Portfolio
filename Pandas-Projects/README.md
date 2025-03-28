@@ -1,36 +1,33 @@
-# Excel Projects
-This folder contains standalone **Excel Projects** that I created to analyze and visualize data. Each report showcases my ability to leverage Pivot Tables, Charts, and Data Analysis techniques to transform raw data into meaningful insights.
+# Pandas Projects
 
-These reports demonstrate skills in:
-- Data Cleaning & Transformation using Power Query.
-- Pivot Tables & Charts for summarizing and visualizing trends.
-- Custom Calculations using formulas and calculated fields.
-- Interactive Dashboards for exploring key business metrics.
+This folder contains standalone **Pandas projects** that showcase my ability to clean, analyze, and manipulate data using Python. Each project demonstrates my proficiency in working with structured datasets, performing exploratory data analysis (EDA), and deriving meaningful insights using Pandas.
 
 ## Projects
-1. **Adidas Sales Analysis**:
-   - **Description**: This Excel project provides an in-depth analysis of Adidas' sales performance, focusing on revenue trends, product popularity, customer preferences, and category-wise sales distribution. Using Pivot Tables, Charts, and Data Analysis techniques
-   - **Target Audience**: Designed for business analysts, sales managers, and executives to track sales performance, identify best-selling products, and optimize marketing. 
-   - **Tools**: Excel (Power Query - Power Pivot)
-   - **Folder**: `Adidas-Sales-Analysis/`
 
-2. **IMDb Movies Analysis**:
-   - **Description**: This project provides a comprehensive analysis of the movie industry, focusing on **profitability, ROI, audience engagement, and rating trends**. The analysis uncovers insights into the **top 10 most profitable countries, the best-performing genres by ROI, and the financial impact of different movie languages**. Additionally, it explores whether **Facebook likes and IMDb ratings influence profitability** and conducts an in-depth **ratings analysis**.  
-   - **Target Audience**: Designed for **movie producers, investors, analysts, and marketers** looking to understand key factors affecting movie profitability and audience reception.  
-   - **Tools**: Excel (Pivot Tables - Data Visualization) 
-   - **Folder**: `IMDb-Movies-Analysis/`
+1. **Airbnb Data Analysis**
+   - **Description**: This project analyzes Airbnb listings data to uncover pricing trends, neighborhood popularity, and property characteristics. It also includes automation to handle multiple city datasets efficiently.
+   - **Target Audience**: The analysis is useful for travelers, Airbnb hosts, and real estate investors looking to understand market trends.
+   - **Tools**: Python, Pandas, Matplotlib
+   - **Folder**: `AirBnN-Analysis/`
 
+2. **Ecommerce-Sales-Analysis**
+   - **Description**: This project explores a sales dataset to identify top-selling products, seasonal trends, and revenue distribution across different regions.
+   - **Target Audience**: Business analysts, sales managers, and marketers aiming to optimize sales strategies and inventory management.
+   - **Tools**: Python, Pandas, Matplotlib, Seaborn
+   - **Folder**: `Sales-Data-Analysis/`
 
 ## How to Use This Folder
 - Each project folder contains:
   - A `README.md` with detailed project information.
-  - Excel Files (`.xlsx`).
-  - Datasets are included in the Excel File.
+  - Jupyter notebooks (`.ipynb`) containing the analysis code.
+  - Datasets used for the analysis (if publicly available).
 
 ## Skills Demonstrated
-- **Excel**: Pivot Tables, Charts, and Data Analysis for business reporting.
-- **Data Analysis**: Identifying trends, patterns, and actionable insights.
-- **Business Intelligence**: Translating data into business recommendations.
+- **Pandas**: Data cleaning, transformation, and manipulation.
+- **Exploratory Data Analysis (EDA)**: Identifying trends, correlations, and insights.
+- **Data Visualization**: Creating meaningful charts and graphs using Matplotlib and Seaborn.
+- **Business Intelligence**: Extracting actionable insights to support decision-making.
 
+---
 
-
+**Happy Coding!** 🚀📊
