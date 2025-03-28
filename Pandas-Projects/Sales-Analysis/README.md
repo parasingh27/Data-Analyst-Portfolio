@@ -1,36 +1,70 @@
-# Excel Projects
-This folder contains standalone **Excel Projects** that I created to analyze and visualize data. Each report showcases my ability to leverage Pivot Tables, Charts, and Data Analysis techniques to transform raw data into meaningful insights.
+# Sales Data Analysis - Python Project
 
-These reports demonstrate skills in:
-- Data Cleaning & Transformation using Power Query.
-- Pivot Tables & Charts for summarizing and visualizing trends.
-- Custom Calculations using formulas and calculated fields.
-- Interactive Dashboards for exploring key business metrics.
+This project analyzes **sales data** to uncover trends in revenue, customer behavior, and location-based performance. The analysis involves:
 
-## Projects
-1. **Adidas Sales Analysis**:
-   - **Description**: This Excel project provides an in-depth analysis of Adidas' sales performance, focusing on revenue trends, product popularity, customer preferences, and category-wise sales distribution. Using Pivot Tables, Charts, and Data Analysis techniques
-   - **Target Audience**: Designed for business analysts, sales managers, and executives to track sales performance, identify best-selling products, and optimize marketing. 
-   - **Tools**: Excel (Power Query - Power Pivot)
-   - **Folder**: `Adidas-Sales-Analysis/`
+- **Data Loading**: Importing and structuring sales data.
+- **Data Cleaning**: Handling missing values, transforming data, and ensuring consistency.
+- **Exploratory Data Analysis (EDA)**: Performing in-depth analysis on sales patterns, time-based trends, and geographic distribution.
 
-2. **IMDb Movies Analysis**:
-   - **Description**: This project provides a comprehensive analysis of the movie industry, focusing on **profitability, ROI, audience engagement, and rating trends**. The analysis uncovers insights into the **top 10 most profitable countries, the best-performing genres by ROI, and the financial impact of different movie languages**. Additionally, it explores whether **Facebook likes and IMDb ratings influence profitability** and conducts an in-depth **ratings analysis**.  
-   - **Target Audience**: Designed for **movie producers, investors, analysts, and marketers** looking to understand key factors affecting movie profitability and audience reception.  
-   - **Tools**: Excel (Pivot Tables - Data Visualization) 
-   - **Folder**: `IMDb-Movies-Analysis/`
+---
+
+## 🛠 Tools and Technologies Used
+
+- **Programming Language**: Python  
+- **Libraries**: Pandas, NumPy, Matplotlib  
+- **Data Visualization**: Matplotlib  
+- **Data Source**: Sales dataset
+
+---
+
+## Project Structure
+
+The project is divided into three main components:
+
+### **1. Data Loading**
+**Objective**: Read and structure the dataset for analysis.  
+**Key Steps**:
+- Import necessary libraries.
+- Load sales data into Pandas DataFrame.
+
+### **2. Data Cleaning**
+**Objective**: Ensure data quality before performing analysis.  
+**Key Steps**:
+- Handle missing or inconsistent values.
+- Convert data types for accurate analysis.
+- Standardize column names.
+
+### **3. Exploratory Data Analysis (EDA)**
+**Objective**: Extract key insights from sales data.  
+**Key Analyses**:
+- **Sales Performance**: Total revenue, best-selling products, and seasonal trends.
+- **Time-Based Analysis**: Identifying peak sales periods and growth patterns.
+- **Location-Based Analysis**: Analyzing sales distribution across different regions.
+
+**Files**:
+- `sales.ipynb`: Jupyter Notebook containing the full analysis.
+
+---
+
+## Key Features of the Analysis
+
+### **Exploratory Data Analysis (EDA)**
+- **Revenue Trends**: Monthly and yearly sales patterns.
+- **Customer Insights**: Identifying high-value customers and repeat purchase behavior.
+- **Regional Performance**: Sales trends across different locations.
+
+---
+
+## Benefits of the Project
+1. **Data-Driven Decision Making**: Helps businesses understand key sales trends.
+2. **Optimization**: Identifies top-performing products and peak sales periods.
+3. **Scalability**: Can be adapted for other sales datasets with minimal changes.
+
+---
+
+**Happy Analyzing!** 📊💪
 
 
-## How to Use This Folder
-- Each project folder contains:
-  - A `README.md` with detailed project information.
-  - Excel Files (`.xlsx`).
-  - Datasets are included in the Excel File.
-
-## Skills Demonstrated
-- **Excel**: Pivot Tables, Charts, and Data Analysis for business reporting.
-- **Data Analysis**: Identifying trends, patterns, and actionable insights.
-- **Business Intelligence**: Translating data into business recommendations.
 
 
 
