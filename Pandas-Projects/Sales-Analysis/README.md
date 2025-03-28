@@ -1,4 +1,4 @@
-# Sales Data Analysis - Python Project
+# E-commerce Sales Data Analysis - Python Project
 
 This project analyzes **sales data** to uncover trends in revenue, customer behavior, and location-based performance. The analysis involves:
 
