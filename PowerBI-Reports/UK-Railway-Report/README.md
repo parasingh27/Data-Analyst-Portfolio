@@ -1,4 +1,4 @@
-# UK Railway Report
+# Railway Report
 
 This Power BI project was developed as part of the **Maven Analytics Challenge** and provides a comprehensive analysis of the **UK railway system**, focusing on **ticket pricing**, **passenger trends**, **station popularity**, and **sales performance**. The dashboard enables stakeholders to make data-driven decisions that improve operational efficiency and customer satisfaction.
 
