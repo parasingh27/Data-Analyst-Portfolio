@@ -16,8 +16,4 @@ Welcome to my Data Analyst portfolio! This repository contains a collection of p
 - Each category folder contains project-specific folders, each with a README.md providing detailed information for each project.
 - Datasets are included in this repository. You can find them within each project's directory.
 
-## Contact
-For questions or feedback, feel free to reach out:
-- **Email**: abdelrahmangamal287@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/abdelrahman-gamal121
-- **GitHub**: https://github.com/AbdelrahmanGamalOmar
+
